@@ -23,5 +23,8 @@
     <ClInclude Include="H.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="structperson.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
